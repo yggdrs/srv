@@ -1,0 +1,11 @@
+[7/4/2022, 3:29:10 PM] @colyseus/loadtest
+endpoint: ws://localhost:3000
+roomName: map-5-5
+numClients: 2
+scriptFile: /Users/gabrielcorreia/repo/srv/loadtest/example.ts
+logLevel: all
+output: /Users/gabrielcorreia/repo/srv/loadtest.log
+[7/4/2022, 3:29:44 PM] Finished. Summary:
+Successful connections: 2
+Failed connections: 0
+Total errors: 0
